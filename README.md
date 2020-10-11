@@ -1,5 +1,5 @@
 # WAR_NET_W_04_Final
-Praca kończąca
+Praca kończąca - Organizer Drobnego Inwestora
 
 Wstęp.
 Jakiś czas temu, gdy nie miałem jeszcze tylu zobowiazań zawodowych i prywatnych, zajmowłem się na własny rachunek drobnym inwestowaniem w wybranych przez siebie instrumentach finansowych. Przyjęta metodologia wymagała jednak między innymi:
